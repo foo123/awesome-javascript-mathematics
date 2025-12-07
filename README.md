@@ -10,6 +10,7 @@
 - [Fraction.js](http://www.xarg.org/2014/03/precise-calculations-in-javascript/) - **Q** in JavaScript. [Git](https://github.com/infusion/Fraction.js)
 - Complex.js - **C** in JavaScript. [Git](https://github.com/infusion/Complex.js)
 - [Combinatorics.js](https://github.com/devanp92/combinatorics.js) - Permutations, Posets, Trees, and other enumerative collections. [Git](https://github.com/devanp92/combinatorics.js)
+- [`foo123/Abacus`](https://foo123.github.io/examples/abacus) - Computer Algebra System and Combinatorics Library. [Git](https://github.com/foo123/Abacus)
 - [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
 
 #### Formulas
@@ -18,6 +19,9 @@
 - [algebra.js](http://algebra.js.org/) - Build, display, and solve algebraic equations. [Git](https://github.com/nicolewhite/algebra.js)
 - [KaTeX](https://katex.org) - Fastest `LaTeX` renderer for the web. [Git](https://github.com/KaTeX/KaTeX)
 - [`overleaf/overleaf`](https://github.com/overleaf/overleaf)
+
+#### Computer Algebra Systems
+- [`foo123/Abacus`](https://foo123.github.io/examples/abacus-repl) - Computer Algebra System for Algebraic Number Theory and Combinatorics. [Git](https://github.com/foo123/Abacus)
 
 #### Set theory / Functional Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
@@ -48,6 +52,9 @@
 - [`karpathy/convnetjs`](https://github.com/karpathy/convnetjs)
 - [`google/mediapipe`](https://github.com/google/mediapipe)
 
+#### Image Processing / Computer Vision
+- [`foo123/FILTER.js`](https://github.com/foo123/FILTER.js) 
+
 #### Data Analysis
 - [EclairJS](https://developer.ibm.com/open/eclairjs/) - JS Interface for Apache Spark. [Git](https://github.com/EclairJS/eclairjs)
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
@@ -73,9 +80,13 @@
 - [`juliuste/projections`](https://github.com/juliuste/projections)
 - [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
 - [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
+- [`foo123/Geometrize`](https://github.com/foo123/Geometrize) - Computational Geometry and Rendering Framework.
 
 #### Numerical Simulation
 - [FEAScript](https://feascript.com/) - A JavaScript finite element simulation library. [Git](https://github.com/FEAScript)
+
+#### Scientific Computing Environments
+- [`foo123/SciLite`](https://foo123.github.io/examples/scilite/) - Scientific Computing Environment similar to Octave/Matlab. [Git](https://github.com/foo123/SciLite)
 
 ### REST APIs
 - [Wolfram|Alpha](http://products.wolframalpha.com/developers)
